@@ -24,6 +24,7 @@ Here are the steps to get started:
 &bull; Create the production build of the app by running `npm run build` to <br>
 &bull; Start the server in development mode by running `npm run start:dev`.<br>
 &bull; Open http://localhost:3000 in your web browser to launch the application.
+&bull; Click the "Install" button to utilize the application's functionality offline.
 
 ## Usage
 
