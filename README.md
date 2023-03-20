@@ -1,6 +1,12 @@
 # Progressive-Web-Application-Text-Editor
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)&nbsp;
+[![Node.js Version](https://img.shields.io/badge/Node.js-v14.17.5-green)](https://nodejs.org/en/download/)&nbsp;&nbsp;
+[![Express.js Version](https://img.shields.io/badge/Express.js-v4.17.1-green)](https://www.npmjs.com/package/express)&nbsp;
+[![webpack Version](https://img.shields.io/badge/webpack-v5.62.0-blue)](https://webpack.js.org/)&nbsp;
+[![Babel Version](https://img.shields.io/badge/Babel-v7.16.7-yellow)](https://babeljs.io/)&nbsp;
+[![IndexedDB](https://img.shields.io/badge/IndexedDB-Supported-green)](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+
 
 ## Description
 A text editor that runs in the browser with or without an an internet connection. 
@@ -30,7 +36,8 @@ Here are the steps to get started:
 
 Deployed application: [https://mbartnett-pwa-text-editor.herokuapp.com/](https://mbartnett-pwa-text-editor.herokuapp.com/)
 
-![Progressive Web Application Text Editor](./public/Images/PWA-Text-Editor.png)<br><br>
+![Progressive Web Application Text Editor](./assets/Images/PWA-Text-Editor.png)<br><br>
+![Progressive Web Application Text Editor 2](./assets/Images/PWA-Text-Editor2.png)<br>
 
 ## License
 
